@@ -25,7 +25,7 @@ tqdm == 4.62.2
 
   - **Amazon-Electronics**: <https://drive.google.com/file/d/1_7Lymuov_-8OjcumFhM_BWNIEvKmhzzP/view?usp=sharing>
 
-* In **model** folder, we provide the CGI source code demo and its running script file.
+* In **model** folder, we provide the NRCGI source code demo and its running script file.
 
 ## Usage
 The below running method is based on you have **enter the model folder and the datasets have been downloaded and placed on ./data.**
